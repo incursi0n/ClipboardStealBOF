@@ -9,7 +9,7 @@ Credits to @netero1010's ClipboardHistoryThief(https://github.com/netero1010/Cli
 
 ## Usage
 1. import the clipboardsteal.cna script into Cobalt Strike
-2. use the command `clipbaordsteal [cmd]`
+2. use the command `clipboardsteal [cmd]`
 
 ```
 clipboardsteal [command]
