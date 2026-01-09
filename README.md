@@ -4,17 +4,17 @@ An alternative to the builtin clipboard feature in Cobalt Strike that adds the c
 Credits to @netero1010's ClipboardHistoryThief (https://github.com/netero1010/ClipboardHistoryThief/tree/main) for the original PoC.
 
 ## To start
-1. git clone the repo
-2. run `make`
+1. Git clone the repo
+2. Run `make`
 
 ## Usage
-1. import the clipboardsteal.cna script into Cobalt Strike
-2. use the command `clipboardsteal [cmd]`
+1. Import the clipboardsteal.cna script into Cobalt Strike
+2. Use the command `clipboardsteal [cmd]`
 
 ```
 clipboardsteal [command]
-Command         Description--------        
-dump [file]     Dumps the content of the clipboard history to console/file.
+Command         Description      
+dump            Dumps the content of the clipboard history to console/file.
 enable          Enables the clipboard history feature.
 disable         Disables the clipboard history feature.
 check           Checks if clipboard history feature is enabled.
