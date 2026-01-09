@@ -14,7 +14,7 @@ Credits to @netero1010's ClipboardHistoryThief (https://github.com/netero1010/Cl
 ```
 clipboardsteal [command]
 Command         Description      
-dump            Dumps the content of the clipboard history to console/file.
+dump            Dumps the content of the clipboard history to console
 enable          Enables the clipboard history feature.
 disable         Disables the clipboard history feature.
 check           Checks if clipboard history feature is enabled.
