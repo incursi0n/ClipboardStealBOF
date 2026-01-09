@@ -1,7 +1,7 @@
 # ClipboardStealBOF
 An alternative to the builtin clipboard feature in Cobalt Strike that adds the capability to enable/disable and dump the clipboard history.
 
-Credits to @netero1010's ClipboardHistoryThief(https://github.com/netero1010/ClipboardHistoryThief/tree/main) for the original PoC.
+Credits to @netero1010's ClipboardHistoryThief (https://github.com/netero1010/ClipboardHistoryThief/tree/main) for the original PoC.
 
 ## To start
 1. git clone the repo
