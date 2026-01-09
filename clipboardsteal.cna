@@ -2,7 +2,13 @@
 beacon_command_register(
     "clipboardsteal",
     "BOF clipboardsteal",
-    "Use: clipboardsteal [cmd]"
+    "Use: clipboardsteal [cmd]
+    Command         Description
+    dump            Dumps the content of the clipboard history to console.
+    enable          Enables the clipboard history feature.
+    disable         Disables the clipboard history feature.
+    check           Checks if clipboard history feature is enabled.
+    help            Shows this help menu."
 );
 
 alias clipboardsteal {
